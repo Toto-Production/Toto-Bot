@@ -23,8 +23,8 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "Bot Officiel de Toto Production", // required by Discord API, not shown in the client
-        state: "stalking",     // this is what people actually see
+        name: "Toto Bot", // required by Discord API, not shown in the client
+        state: "Bot Officiel de Toto Production.",     // this is what people actually see
         type: 4,               // Custom
       },
     ],
